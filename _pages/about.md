@@ -12,25 +12,50 @@ Hello! My name is FAN,Yuxin. I studied at [Shanghai University of Economics and 
 
 You can find our group website here: [group website](https://www.math.cuhk.edu.hk/~btjin/). You can contact me by email: [Email](yxfan@math.cuhk.edu.hk).
 
-My teaching experience
+Teaching experience
 ======
 2023-2024 Fall  Teaching assistant of [MATH 1010](https://www.math.cuhk.edu.hk/~math1010/)
 
 2023-2024 Fall  Teaching assistant of [MATH 1510](https://www.math.cuhk.edu.hk/~math1510/)
 
-Getting started
+Courses I take
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2023-2024 Fall  Abstract Algebra I (MATH5051) [MATH 5051](https://www.math.cuhk.edu.hk/course/math5051)
 
-Site-wide configuration
+2023-2024 Fall  Real Analysis I (MATH5011) [MATH 5011](https://www.math.cuhk.edu.hk/course/math5011)
+
+2023-2024 Fall  Topology of Manifolds(MATH5070) [MATH 5070](https://www.math.cuhk.edu.hk/course/2324/math5070)
+
+2023-2024 Fall  Advanced Numerical Analysis I(MATH 5211) [MATH 5211](https://www.math.cuhk.edu.hk/course/math5211)
+
+2023-2024 Fall  Topics in Numerical Analysis I (MATH6221) [MATH 6211](https://www.math.cuhk.edu.hk/~btjin/teaching.htm)
+
+
+Reading papers
+======
+1.Mathematical foundations of infinite-dimensional statistical models.([http://www.statslab.cam.ac.uk/~nickl/Site/book.html](https://www.cambridge.org/gb/universitypress/subjects/statistics-probability/statistical-theory-and-methods/mathematical-foundations-infinite-dimensional-statistical-models?format=HB))
+2.[Bayesian Non-Linear Statistical Inverse Problems](https://ems.press/books/zlam/260) 
+3.Evans,Partial Differential Equations
+To be updated monthly.
+
+Group Seminar Topics 
 ------
  
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about applied mathematics:
+
+[IP](https://iopscience.iop.org/journal/0266-5611)  [MC](https://www.ams.org/publications/journals/journalsframework/mcom)
+
+[SIAM] (https://www.siam.org/)    [JCP](https://www.sciencedirect.com/journal/journal-of-computational-physics)
+
+[CPAM](https://onlinelibrary.wiley.com/journal/10970312?journalRedirectCheck=true) [SINUM](https://epubs.siam.org/journal/sjnaam)
+
+[SISC](https://epubs.siam.org/journal/sjoce3)    [SICON](https://epubs.siam.org/journal/sjcodc)
+
+[ESAIM](https://www.esaim-m2an.org/)   [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering)
+
+[IMANUM](https://academic.oup.com/imajna?login=true)  
+
+You can find some  daily articles at [researcher](https://www.researcher-app.com/).
