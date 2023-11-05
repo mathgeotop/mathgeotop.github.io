@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the homepage of FAN,Yuxin. I studied at [Shanghai University of Economics and Finance](https://www.sufe.edu.cn/) in the [School of Economics](https://econ.sufe.edu.cn/) from 2019-2023. After that, I move to [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) to study [mathematics](https://www.math.cuhk.edu.hk/) from August 1st. My research interest lies in inverse problems, machine learning, Mathematical Statistics, statistics for PDEs and inverse problems.
+
+You can find our group website here: [grouo website](https://www.math.cuhk.edu.hk/~btjin/).
 
 A data-driven personal website
 ======
