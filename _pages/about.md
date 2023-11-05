@@ -34,8 +34,11 @@ Courses I take
 Reading papers
 ======
 1.Mathematical foundations of infinite-dimensional statistical models.([http://www.statslab.cam.ac.uk/~nickl/Site/book.html](https://www.cambridge.org/gb/universitypress/subjects/statistics-probability/statistical-theory-and-methods/mathematical-foundations-infinite-dimensional-statistical-models?format=HB))
+
 2.[Bayesian Non-Linear Statistical Inverse Problems](https://ems.press/books/zlam/260) 
+
 3.Evans,Partial Differential Equations
+
 To be updated monthly.
 
 Group Seminar Topics 
@@ -48,7 +51,7 @@ More info about applied mathematics:
 
 [IP](https://iopscience.iop.org/journal/0266-5611)  [MC](https://www.ams.org/publications/journals/journalsframework/mcom)
 
-[SIAM] (https://www.siam.org/)    [JCP](https://www.sciencedirect.com/journal/journal-of-computational-physics)
+[SIAM](https://www.siam.org/)    [JCP](https://www.sciencedirect.com/journal/journal-of-computational-physics)
 
 [CPAM](https://onlinelibrary.wiley.com/journal/10970312?journalRedirectCheck=true) [SINUM](https://epubs.siam.org/journal/sjnaam)
 
