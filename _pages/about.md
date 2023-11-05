@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is FAN,Yuxin. I studied at [Shanghai University of Economics and Finance](https://www.sufe.edu.cn/) in the [School of Economics](https://econ.sufe.edu.cn/) from 2019-2023. After that, I move to [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) to study [mathematics](https://www.math.cuhk.edu.hk/) from August 1st. My research interest lies in inverse problems, machine learning, Mathematical Statistics, statistics for PDEs and inverse problems.
+Hello! My name is FAN,Yuxin. I studied at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) in the [School of Economics](https://econ.sufe.edu.cn/) from 2019-2023. After that, I move to [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) to study [mathematics](https://www.math.cuhk.edu.hk/) from August 1st. My research interest lies in inverse problems, machine learning, Mathematical Statistics, statistics for PDEs and inverse problems.
 
 You can find our group website here: [group website](https://www.math.cuhk.edu.hk/~btjin/). You can contact me by email: [Email](yxfan@math.cuhk.edu.hk).
 
