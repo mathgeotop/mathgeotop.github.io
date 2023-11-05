@@ -33,7 +33,7 @@ Courses I take
 
 Reading papers
 ======
-1.[Mathematical foundations of infinite-dimensional statistical models].(http://www.statslab.cam.ac.uk/~nickl/Site/book.html)
+1.[Mathematical foundations of infinite-dimensional statistical models](http://www.statslab.cam.ac.uk/~nickl/Site/book.html).
 
 2.[Bayesian Non-Linear Statistical Inverse Problems](https://ems.press/books/zlam/260) 
 
