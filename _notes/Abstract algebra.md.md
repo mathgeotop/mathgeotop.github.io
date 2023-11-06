@@ -1,7 +1,7 @@
 ---
 title: "Abstract Algebra"
 collection: notes
-type: "Notes"
+type: "notes"
 permalink: /notes/Abstract algebra
 venue: "CUHK, Academic Building 1"
 date: 2023-09-01
