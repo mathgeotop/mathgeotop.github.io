@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shanghai University of Finance and Economics, 2019
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Teaching Assistant
+  * Shanghai University of Finance and Economics
+  * Course I support: Scientific Computations,[School of Information Management and Engineering](https://sime.sufe.edu.cn/main.htm)
+  
+* Spring 2022, Fall 2022: Teaching Assistant
+  * Shanghai University of Finance and Economics
+  * Course I support:  Corporate Finance, [School of Finance](https://sof.sufe.edu.cn/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab/C++/LATEX: Proficient
+* Python, Java: On Learning
 
+Languages
+======
+* CET-4: 660+, CET 6: 640+
+* ILETS: Overall Score 7.5, TOEFL: 102
+* GRE: 319+3.5
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,12 +47,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member Of HKSIAM
