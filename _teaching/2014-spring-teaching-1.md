@@ -8,11 +8,11 @@ date: 2023-09-01
 location: "Hong Kong, China"
 ---
 
-This course is designed for students who need to acquire the knowledge and skills of one-variable calculus at a general level for the studies in science or engineering. The course places special emphasis on the theoretical foundations as well as the methods and techniques of computation and their applications..
+This course is designed for students who need to acquire the knowledge and skills of one-variable calculus at a general level for the studies in science or engineering. The course places special emphasis on the theoretical foundations as well as the methods and techniques of computation and their applications.
 
 Tutorial problems
 ======
-Please find our tutorial Problem Set Here.(To be updated)
+Please find our tutorial Problem Set Here. (To be updated)
 
 Math Gym
 ======
