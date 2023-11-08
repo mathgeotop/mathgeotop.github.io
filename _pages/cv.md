@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shanghai University of Finance and Economics, 2019
+* B.S. in Shanghai University of Finance and Economics, 2019-2023
 
 
 Work experience
@@ -26,13 +26,13 @@ Work experience
   
 Skills
 ======
-* Matlab/C++/LATEX: Proficient
+* Matlab/C++/Latex: Proficient
 * Python, Java: On Learning
 
 Languages
 ======
 * CET-4: 660+, CET 6: 640+
-* ILETS: Overall Score 7.5, TOEFL: 102
+* ILETS: 7.5, TOEFL: 102
 * GRE: 319+3.5
   
 Publications
@@ -50,4 +50,4 @@ Talks
 
 Service and leadership
 ======
-* Member Of HKSIAM
+* Member of [HKSIAM](https://www.hksiam.org.hk/)
