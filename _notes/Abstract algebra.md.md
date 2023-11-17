@@ -9,6 +9,5 @@ location: "Hong Kong, China"
 ---
 
 This is a notes cotains context about Field theory, Galois theory, Grothendieck's Galois theory, which can help us familiar with PhD Qualify Exam.
-Thanks for our dear algebra teacher, who draw a picture for this material.
 
 Note 1 : [Abstract Algebra note 1](https://mathgeotop.github.io/files/Abstract Algebra note 1.pdf).
