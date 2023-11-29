@@ -13,3 +13,5 @@ This is a notes mainly concerns with basic manifold language.Thanks for Prof. Wu
 Note 1 : [Intro to manifolds note 1](https://mathgeotop.github.io/files/Intro to manifold note 1.pdf).
 
 Note 2 : [Intro to manifolds note 2](https://mathgeotop.github.io/files/Intro to manifold note 2.pdf).
+
+Note 3 : [Rank theorems](https://mathgeotop.github.io/files/Rank theorems.pdf).
