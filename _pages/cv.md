@@ -33,7 +33,7 @@ Study experience
 
 * Fall 2022: [FDU-ECNU Summer School of Operator Algebras and Noncommutative Geometry](https://math.ecnu.edu.cn/RCOA/events/2022%20FDU-ECNU%20Summer%20School%20of%20Operator%20Algebras%20and%20Noncommutative%20Geometry/2022%20FDU-ECNU%20Summer%20School%20of%20Operator%20Algebras%20and%20Noncommutative%20Geometry%20.html)
   * Shanghai, FDU-ECNU, August 22-30, 2022
-  * Learning Stuff: Amenable group, Coarse geometry， Group Representation Theory.
+  * Learning Stuff: Amenable group, Coarse geometry， Group Representation Theory
   
 * Fall 2023, [Workshop in High Performance Computing](https://tmcc.whu.edu.cn/info/1210/2939.htm)
   * Wuhan, Tianyuan Mathematical Center in Central China, July 7-15, 2023
