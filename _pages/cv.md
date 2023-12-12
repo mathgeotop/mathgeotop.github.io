@@ -27,7 +27,7 @@ Work experience
 
 Study experience
 ======
-* Fall 2022: [Graduate Summer School in pure mathematics](https://math.suda.edu.cn/35/07/c10738a537863/page.htm)
+* Fall 2022: [Graduate Summer School in Pure Mathematics](https://math.suda.edu.cn/35/07/c10738a537863/page.htm)
   * Jiangsu, Soochow University, July-August, 2022
   * Completed Courses: Algebra, Topology, Real analysis
 
@@ -35,7 +35,7 @@ Study experience
   * Shanghai, FDU-ECNU, August 22-30, 2022
   * Learning Stuff: Amenable group, Coarse geometry， Group Representation Theory.
   
-* Fall 2023, [Workshop in High performance computing](https://tmcc.whu.edu.cn/info/1210/2939.htm)
+* Fall 2023, [Workshop in High Performance Computing](https://tmcc.whu.edu.cn/info/1210/2939.htm)
   * Wuhan, Tianyuan Mathematical Center in Central China, July 7-15, 2023
   * Topics: The minimax rate in machine learning
   
