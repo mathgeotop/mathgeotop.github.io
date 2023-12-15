@@ -43,7 +43,7 @@ Study experience
   * Wuhan, Tianyuan Mathematical Center in Central China, July 7-15, 2023
   * Topics: The minimax rate in machine learning
   
-* Fall 2023, [The Second HKSIAM Biennial Meeting ](https://www.math.cuhk.edu.hk/conference/hksiam2023/index.php)
+* Fall 2023, [The Second HKSIAM Biennial Meeting](https://www.math.cuhk.edu.hk/conference/hksiam2023/index.php)
   * Hong Kong, CUHK, August 28-September 1, 2023
 
 
