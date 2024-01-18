@@ -24,17 +24,19 @@ Courses I take
 
 2023-2024 Fall  Real Analysis I (MATH5011) [MATH 5011](https://www.math.cuhk.edu.hk/course/math5011)
 
-2023-2024 Fall  Topology of Manifolds(MATH5070) [MATH 5070](https://www.math.cuhk.edu.hk/course/2324/math5070)
+2023-2024 Fall  Topology of Manifolds (MATH5070) [MATH 5070](https://www.math.cuhk.edu.hk/course/2324/math5070)
 
 2023-2024 Fall  Advanced Numerical Analysis I (MATH 5211) [MATH 5211](https://www.math.cuhk.edu.hk/course/math5211)
 
 2023-2024 Fall  Topics in Numerical Analysis I (MATH6221) [MATH 6211](https://www.math.cuhk.edu.hk/~btjin/teaching.htm)
 
-2023-2024 Spr   Modules and Representation Theory(MATH4080) [MATH4080](https://www.math.cuhk.edu.hk/course/2324/math4080)
+2023-2024 Spr   Modules and Representation Theory (MATH4080) [MATH4080](https://www.math.cuhk.edu.hk/course/2324/math4080)
 
 2023-2024 Spr   Theory of Partial Differential Equations II (MATH5022) [MATH 5022](https://www.math.cuhk.edu.hk/course/2324/math5022)
 
 2023-2024 Spr   Topics in Analysis II (MATH6082) [MATH 6082](https://www.math.cuhk.edu.hk/course/math6082)
+
+2023-2024 Spr   Fundamentals of Modern Quantum Mechanics (PHYS5120) [PHYS5120](https://www.phy.cuhk.edu.hk/course/2023-2024/2/phys5120/index.html)
 
 
 
