@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is FAN,Yuxin. I studied at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) in the [School of Economics](https://econ.sufe.edu.cn/) from 2019-2023. After that, I move to [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) to study [mathematics](https://www.math.cuhk.edu.hk/) from August 1st. My research interest lies in inverse problems, machine learning, mathematical statistics, statistics for PDEs and inverse problems.
+Hello! My name is FAN,Yuxin. I studied at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) in the [School of Economics](https://econ.sufe.edu.cn/) from 2019-2023. After that, I move to [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) to study [mathematics](https://www.math.cuhk.edu.hk/) from August 1st. My research interest lies in inverse problems, machine learning, mathematical statistics, statistics for PDEs and inverse problems. Mathematics is the sunshine of my life. 
 
-You can find our group website here: [group website](https://www.math.cuhk.edu.hk/~btjin/). You can contact me by email: yxfan@math.cuhk.edu.hk.
+I am very fortunate to be guided by my supervisor and join such a lovely group. You can find our group website here: [group website](https://www.math.cuhk.edu.hk/~btjin/). You can contact me by email: yxfan@math.cuhk.edu.hk.
+
+Besides, I love playing guitar and listening Chinese folk music. I admire guitarist [押尾コータロー](https://www.kotaro-oshio.com/). My favoriate singer, composer is [Jiajie Feng](http://xuetangban.life.tsinghua.edu.cn/content.php?classid=26&listid=38&contentid=126). I am also interested in Chinese Philosophy(especially, [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/) and Psychology.
+
+
 
 Teaching experience
 ======
