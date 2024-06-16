@@ -12,7 +12,7 @@ Hello! My name is FAN,Yuxin. I studied at [Shanghai University of Finance and Ec
 
 I am very fortunate to be guided by my supervisor and join such a lovely group. You can find our group website here: [group website](https://www.math.cuhk.edu.hk/~btjin/). You can contact me by email: yxfan@math.cuhk.edu.hk.
 
-Besides, I love playing guitar and listening Chinese folk music. I admire guitarist [GIN]([https://www.kotaro-oshio.com/]). My favoriate singer, composer is [Jiajie Feng](http://xuetangban.life.tsinghua.edu.cn/content.php?classid=26&listid=38&contentid=126). I am also interested in Chinese Philosophy (especially, [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)) and Psychology.
+Besides, I love playing guitar and listening Chinese folk music. I admire guitarist [GIN](https://space.bilibili.com/358032809/?spm_id_from=333.999.0.0). My favoriate singer, composer is [Jiajie Feng](http://xuetangban.life.tsinghua.edu.cn/content.php?classid=26&listid=38&contentid=126). I am also interested in Chinese Philosophy (especially, [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)) and Psychology.
 
 
 
