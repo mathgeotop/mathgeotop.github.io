@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "FAN Yuxin"
-  avatar           : "maxresdefault.png"
+  avatar           : #"maxresdefault.png"
   bio              : ""
   location         : #"Location"
   employer         :
