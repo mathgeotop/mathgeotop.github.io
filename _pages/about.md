@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my hompage. I am a PhD student in Mathematics at 
-[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), under the supervision of Professor Bangti Jin.
-
-I received my B.Sc. in Economics from the 
-School of Economics, [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2023.
+Welcome to my hompage. I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong, under the supervision of [Professor Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). Previously, I received my Bachelor of Economics (with honors) from the Honors Experimental Program at the School of Economics, [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2023.
 
 My research interests include inverse problems, statistics for partial differential equations, and uncertainty quantification.
 
@@ -34,6 +30,18 @@ Inverse Problems **41** (2025), no. 9, 095011.
    *Title of the paper.*  
    arXiv:xxxx.xxxxx
 -->
+
+## Education
+- **Ph.D. in Mathematics** (2023.09 – Present)  
+  The Chinese University of Hong Kong, Hong Kong  
+
+- **Bachelor of Economics (Honors)** (2019.09 – 2023.06)  
+  School of Economics, Shanghai University of Finance and Economics, China  
+  *Graduated with Highest Honors, ranking 1st in the Honors Experimental Program (1/11) and 3rd overall (3/187).  
+  Shanghai Outstanding Graduate; Two-time National Scholarship Recipient (2020-2021, 2021-2022).*
+
+
+
 
 ## Miscellanea
 I’m passionate about jazz and pop music. I play jazz guitar and regularly join jam sessions in Hong Kong. Since 2024, I've also been studying with [Daan Kleijn](https://www.daankleijn.com/).
