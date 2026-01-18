@@ -37,5 +37,4 @@ Inverse Problems **41** (2025), no. 9, 095011.
 
 ## Miscellanea
 
-I love jazz and pop music and enjoy playing jazz guitar in my spare time. I've had the honor of learning from [Daan Kleijn](https://www.daankleijn.com/) since 2024.
-
+I play jazz guitar, currently studying with [Daan Kleijn](https://www.daankleijn.com/) and participating in jam sessions around Hong Kong.
