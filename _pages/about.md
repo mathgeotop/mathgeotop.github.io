@@ -12,6 +12,7 @@ Welcome to my homepage. I am a PhD student in the Department of Mathematics at t
 
 My research lies at the intersection of **inverse problems**, **statistical inference**, and **uncertainty quantification**, with a focus on PDE-constrained applications.
 
+---
 ## Research Interests
 - Inverse problems for partial differential equations
 - Bayesian nonparametric statistics  
