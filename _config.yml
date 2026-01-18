@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FAN Yuxin"
+title                    : "Short Bio"
 title_separator          : "-"
 name                     : &name "FAN Yuxin"
 description              : &description "math student at CUHK"
