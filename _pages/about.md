@@ -19,9 +19,9 @@ My research interests include inverse problems, statistics for partial different
 
 ## Publications
 
-1. **Yuxin Fan**, Jiho Hong, Bangti Jin.  
-   *Solving inverse acoustic obstacle scattering problem from phaseless far-field measurement using deep neural network surrogates.*  
-   Inverse Problems **41** (2025), no. 9, 095011.
+[1.](https://iopscience.iop.org/article/10.1088/1361-6420/ae0362) **Yuxin Fan**, Jiho Hong, Bangti Jin.  
+*Solving inverse acoustic obstacle scattering problem from phaseless far-field measurement using deep neural network surrogates.*  
+Inverse Problems **41** (2025), no. 9, 095011.
 
    
 ## Preprints
