@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my hompage. I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong, under the supervision of [Professor Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). Previously, I received my Bachelor of Economics (with honors) from the Honors Experimental Program at the School of Economics, [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2023.
+Welcome to my hompage. I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong, under the supervision of [Professor Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). Previously, I received my Bachelor of Economics from the Honors Experimental Program at the School of Economics, [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2023.
 
 My research interests include inverse problems, statistics for partial differential equations, and uncertainty quantification.
 
