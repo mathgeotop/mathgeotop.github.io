@@ -17,9 +17,10 @@ School of Economics, [Shanghai University of Finance and Economics](https://engl
 My research interests include inverse problems, statistics for partial differential equations, and uncertainty quantification.
 
 
+
 ## Publications
 
-[1.](https://iopscience.iop.org/article/10.1088/1361-6420/ae0362) **Yuxin Fan**, Jiho Hong, Bangti Jin.  
+<a href="https://iopscience.iop.org/article/10.1088/1361-6420/ae0362" style="color: #2E86C1; text-decoration: none; font-weight: bold; margin-right: 5px;">[1]</a> **Yuxin Fan**, Jiho Hong, Bangti Jin.  
 *Solving inverse acoustic obstacle scattering problem from phaseless far-field measurement using deep neural network surrogates.*  
 Inverse Problems **41** (2025), no. 9, 095011.
 
