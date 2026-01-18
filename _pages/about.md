@@ -37,4 +37,4 @@ Inverse Problems **41** (2025), no. 9, 095011.
 
 ## Miscellanea
 
-I play jazz guitar, currently studying with [Daan Kleijn](https://www.daankleijn.com/) and participating in jam sessions around Hong Kong.
+I'm passionate about jazz and pop music. I play jazz guitar, studying with [Daan Kleijn](https://www.daankleijn.com/) since 2024 and regularly joining jam sessions in Hong Kong.
