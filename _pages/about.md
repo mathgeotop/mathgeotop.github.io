@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am a PhD student in Mathematics at 
-[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), , under the supervision of Professor Bangti Jin.
+[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), under the supervision of Professor Bangti Jin.
 
 I received my B.Sc. in Economics from the 
-School of Economics, [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) in 2023.
+School of Economics, [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2023.
 
 My research interests include inverse problems, statistics for partial differential equations, and uncertainty quantification.
 
