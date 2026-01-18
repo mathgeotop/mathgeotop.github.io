@@ -37,7 +37,7 @@ Inverse Problems **41** (2025), no. 9, 095011.
 
 - **Bachelor of Economics (Honors)** (2019.09 – 2023.06)  
   School of Economics, Shanghai University of Finance and Economics, China  
-  *Graduated with Highest Honors, ranking 1st in the Honors Experimental Program (1/11) and 3rd overall (3/187).  
+  *Graduated with Highest Honors, ranking 1st in the Honors Experimental Program (1/12) and 3rd overall (3/187).  
   Shanghai Outstanding Graduate; Two-time National Scholarship Recipient (2020-2021, 2021-2022).*
 
 
