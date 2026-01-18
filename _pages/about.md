@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Mathematics at 
+Welcome to my hompage. I am a PhD student in Mathematics at 
 [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), under the supervision of Professor Bangti Jin.
 
 I received my B.Sc. in Economics from the 
