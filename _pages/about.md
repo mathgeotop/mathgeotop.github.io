@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "FAN Yuxin's personal website"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
