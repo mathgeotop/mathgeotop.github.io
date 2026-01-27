@@ -20,7 +20,7 @@ My research lies at the intersection of **inverse problems**, **statistical infe
 
 **Contact:** 1155205162 [at] link.cuhk.edu.hk 
 
-**Links:** [Google Scholar](https://scholar.google.com/citations?user=UvhqcG0AAAAJ&hl=en)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=UvhqcG0AAAAJ&hl=en) · [CV (PDF)](https://mathgeotop.github.io/files/CV_2026_01.pdf)
 
 ---
 
