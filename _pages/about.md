@@ -41,10 +41,10 @@ arXiv:2601.17805, 2026.
 
 ---
 ## Education
-- **Ph.D. in Mathematics** (2023.09 – Present)  
+- **Ph.D. in Mathematics** (2023.08 – Present)  
   The Chinese University of Hong Kong, Hong Kong  
 
-- **Bachelor of Economics (Honors)** (2019.09 – 2023.06)  
+- **Bachelor of Economics (Honors)** (2019.09 – 2023.07)  
   School of Economics, Shanghai University of Finance and Economics, China  
   *Graduated with Highest Honors, ranking 1st in the Honors Experimental Program (1/12) and 3rd overall (3/187).  
   Shanghai Outstanding Graduate; Two-time National Scholarship Recipient (2020-2021, 2021-2022).*
