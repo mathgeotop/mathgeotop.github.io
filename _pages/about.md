@@ -36,7 +36,7 @@ Inverse Problems **41** (2025), no. 9, 095011.
 
 <a href="https://arxiv.org/abs/2601.17805" style="color: #2E86C1; text-decoration: none; font-weight: bold; margin-right: 5px;">[2]</a> **Yuxin Fan**, Bangti Jin.  
 *On the contraction rate of the posterior distribution for nonlinear PDE parameter identification.*  
-Submitted to *SIAM/ASA Journal on Uncertainty Quantification*.  
+arXiv:2601.17805, 2026.
 
 
 ---
