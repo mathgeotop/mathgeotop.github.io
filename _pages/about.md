@@ -52,4 +52,4 @@ arXiv:2601.17805, 2026.
 
 ---
 ## Miscellanea
-I’m passionate about jazz and pop music. I play jazz guitar and regularly join jam sessions in Hong Kong. Since 2024, I've also been studying with [Daan Kleijn](https://www.daankleijn.com/).
+I’m passionate about jazz and pop music. I play jazz guitar and regularly join jam sessions in Hong Kong. I was fortunate to study with [Daan Kleijn](https://www.daankleijn.com/) and [Zheng Yang](https://space.bilibili.com/604884653).
