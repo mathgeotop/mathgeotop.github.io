@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my webpage. I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong, under the supervision of
-[Prof. Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). Previously, I received my Bachelor of Economics at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2023.
+[Prof. Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). Previously, I received my Bachelor of Economics at Shanghai University of Finance and Economics in 2023.
 
 My research lies at the intersection of **inverse problems**, **statistical inference**, and **uncertainty quantification**, with a focus on PDE-constrained applications.
 
@@ -46,7 +46,7 @@ arXiv:2601.17805, 2026.
 
 - **Bachelor of Economics (Honors)** (2019.09 – 2023.07)  
   School of Economics, Shanghai University of Finance and Economics, China  
-  *Graduated with Highest Honors, ranking 1st in the Honors Experimental Program (1/12) and 3rd overall (3/187).  
+  *Graduated with Highest Honors, ranking 1st in the Honors Program (1/12) and 3rd overall (3/187).  
   Shanghai Outstanding Graduate; Two-time National Scholarship Recipient (2020-2021, 2021-2022).*
 
 
