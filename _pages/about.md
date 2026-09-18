@@ -21,7 +21,7 @@ My research lies at the intersection of **inverse problems**, **statistical infe
 
 **Contact:** 1155205162 [at] link.cuhk.edu.hk 
 
-**Links:** [Google Scholar](https://scholar.google.com/citations?user=UvhqcG0AAAAJ&hl=en) · [CV (PDF)](https://mathgeotop.github.io/files/CV_2026_01.pdf)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=UvhqcG0AAAAJ&hl=en) · [CV (PDF)](https://mathgeotop.github.io/files/CV_2026_09.pdf)
 
 ---
 
@@ -31,12 +31,9 @@ My research lies at the intersection of **inverse problems**, **statistical infe
 *Solving inverse acoustic obstacle scattering problem from phaseless far-field measurement using deep neural network surrogates.*  
 Inverse Problems **41** (2025), no. 9, 095011.
 
-## Preprints
-
-
 <a href="https://arxiv.org/abs/2601.17805" style="color: #2E86C1; text-decoration: none; font-weight: bold; margin-right: 5px;">[2]</a> **Yuxin Fan**, Bangti Jin.  
-*On the contraction rate of the posterior distribution for nonlinear PDE parameter identification.*  
-arXiv:2601.17805, 2026.
+*On the consistency of the posterior distribution for nonlinear PDE parameter identification.*  
+Accepted for publication in *SIAM/ASA Journal on Uncertainty Quantification*.
 
 
 ---
