@@ -41,7 +41,7 @@ Accepted for publication in *SIAM/ASA Journal on Uncertainty Quantification*.
 - **Ph.D. in Mathematics** (2023.08 – Present)  
   The Chinese University of Hong Kong, Hong Kong  
 
-- **Bachelor of Economics (Honors)** (2019.09 – 2023.07)  
+- **Bachelor of Economics** (2019.09 – 2023.07)  
   School of Economics, Shanghai University of Finance and Economics, China  
   *Graduated with Highest Honors, ranking 1st in the Honors Program (1/12) and 3rd overall (3/187).  
   Shanghai Outstanding Graduate; Two-time National Scholarship Recipient (2020-2021, 2021-2022).*
