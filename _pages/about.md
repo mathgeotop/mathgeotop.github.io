@@ -41,4 +41,4 @@ Inverse Problems **41** (2025), no. 9, 095011.
 ## Miscellanea
 I’m passionate about jazz and pop music. I play jazz guitar and regularly join jam sessions in Hong Kong. I was fortunate to study with [Daan Kleijn](https://www.daankleijn.com/) and [Zheng Yang](https://space.bilibili.com/604884653).
 
-Like many others, I have my own struggles with mathematics, and I hope to be supportive of those around me along the way. C’est la vie.
+Sometimes mathematics is hard for me, and I try to be supportive of those around me along the way. C’est la vie.
