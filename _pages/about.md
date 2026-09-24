@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Mathematics at the Chinese University of Hong Kong, advised by
-[Prof. Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). I received my Bachelor of Economics at Shanghai University of Finance and Economics in 2023.
+[Prof. Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/). I received my B.A. in Economics at Shanghai University of Finance and Economics in 2023.
 
 My research lies at the intersection of **inverse problems**, **statistical inference**, and **uncertainty quantification**, with a focus on PDE-constrained applications.
 
