@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "T"
+title: "Yuxin Fan"
 excerpt: "Yuxin Fan"
 author_profile: true
 redirect_from: 
