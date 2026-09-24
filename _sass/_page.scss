@@ -34,16 +34,27 @@
   }
 }
 
-.page__title {
-  margin-top: 0;
-  line-height: 1;
-
-  & + .page__meta {
-    margin-top: -0.5em;
-  }
+.page__title { 
+  margin-top: 0; 
+  line-height: 1; 
+ 
+  & + .page__meta { 
+    margin-top: -0.5em; 
+  } 
 }
 
-.page__lead {
+/* Pronouns next to the homepage title */
+.page__pronouns {
+  font-size: 0.45em;
+  font-weight: normal;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+ 
+.page__lead { 
+  font-family: $global-font-family; 
+  font-size: $type-size-4; 
+}
   font-family: $global-font-family;
   font-size: $type-size-4;
 }
