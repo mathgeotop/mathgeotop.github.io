@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuxin Fan’s Homepage"
 title_separator          : "-"
-name                     : &name "Yuxin Fan"
+name                     : &name "Yuxin Fan (she/her)"
 description              : &description "math student at CUHK"
 url                      : https://mathgeotop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
