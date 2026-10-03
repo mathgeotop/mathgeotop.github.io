@@ -38,4 +38,4 @@ Inverse Problems **41** (2025), no. 9, 095011.
 
 ---
 ## Miscellanea
-I’m passionate about jazz and pop music. I play jazz guitar and regularly join jam sessions in Hong Kong. I was fortunate to study with [Daan Kleijn](https://www.daankleijn.com/) and [Zheng Yang](https://space.bilibili.com/604884653).
+I’m passionate about jazz and pop music. I play jazz guitar and regularly join jam sessions in Hong Kong. I was fortunate to study with [Daan Kleijn](https://www.daankleijn.com/) and [Zheng Yang](https://www.instagram.com/yangzheng0304/).
